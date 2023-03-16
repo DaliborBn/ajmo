@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 body {
-  @apply flex justify-center items-center bg-slate-300 h-screen font-outfit
+  @apply flex justify-center items-center bg-slate-300 min-h-screen font-outfit
 }
 
 .container {
