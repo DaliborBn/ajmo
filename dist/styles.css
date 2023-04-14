@@ -648,6 +648,8 @@ body{
   --tw-shadow: var(--tw-shadow-colored);
 }
 
-.hover\:opacity-80:hover{
-  opacity: 0.8;
+@media (hover: hover) {
+  .img-wrapper:hover {
+    opacity: 0.8;
+  }
 }
